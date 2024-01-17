@@ -1,2 +1,2 @@
 # FakeCheck
-This project focuses on differentiating between real human faces and those synthesized by AI in images
+This project focuses on differentiating between real human faces and those synthesized by AI. 
